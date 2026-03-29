@@ -4,7 +4,9 @@
 
 # Hi, I'm Hanif Radityo
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-stack+developer+%7C+Laravel+%C2%B7+Node+%C2%B7+Python;PHP+%C2%B7+Go+%C2%B7+JavaScript+%C2%B7+TypeScript+%C2%B7+Python;Next.js+%C2%B7+React+%C2%B7+Nuxt+%C2%B7+Vue+%C2%B7+Livewire;Always+learning+%E2%80%94+exploring+AI+%26+the+latest+tech;Passionate+about+open+source+%E2%80%94+open+to+collaboration)](https://github.com/radityohanif)
+***Software architect*** · polyglot engineer · building with clarity at scale
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=Software+architecture+%E2%80%94+tradeoffs%2C+boundaries%2C+and+evolution;Multi-stack+%E2%80%94+not+locked+to+a+single+framework;PHP+%C2%B7+Go+%C2%B7+JavaScript+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Laravel+%C2%B7+Node+%C2%B7+more;Shipping+faster+with+agentic+AI+as+a+thoughtful+partner;Open+source+%C2%B7+IT+entrepreneurship+%C2%B7+always+learning)](https://github.com/radityohanif)
 
 <br/>
 
@@ -20,16 +22,16 @@
 
 ## About me
 
-I'm a software developer who enjoys **building web products end-to-end**—from APIs and backend services to interfaces that feel good to use. My work spans the **PHP/Laravel** ecosystem, **JavaScript/TypeScript** (React, Next.js, Nuxt, Vue), and **Go** and **Python** for scripts, services, and data integrations.
+I see myself first as a **software architect**: clarifying **boundaries, trade-offs, and how systems evolve**—then making that real in code. I'm **not tied to one stack**. I work across **PHP, Go, JavaScript/TypeScript, and Python**, with **Laravel** as one strong tool among many—not the whole story—alongside **Node/Express**, modern **frontend** frameworks, data layers, and cloud infra.
 
-I **love learning**—both in structured depth and by experimenting with new things: keeping up with **AI**, lightweight DevOps practices, and architecture patterns that keep code understandable over time. I'm also **drawn to open source**—using it, contributing back, and sharing what I learn.
+Day to day I ship **effectively with agentic AI**: coding agents and assistants as partners for exploration, repetition, and speed—while **architecture and judgment stay human**. I still **love learning** (AI, platforms, patterns) and **open source**—using it, contributing, and sharing.
 
-If you have an idea for **collaboration**, business or non-profit (side projects, community work, mentoring, or just a technical chat), reach out—I'd love to hear from you.
+I'm also curious about **IT entrepreneurship**: turning products and ideas into sustainable ventures. If you want to talk **architecture, collaboration, or something entrepreneurial**—business or non-profit—reach out.
 
 | | |
 |:---|:---|
 | **Location** | Cibinong, West Java, Indonesia |
-| **Focus** | Full-stack web, Laravel ecosystem, modern frontend, data & integrations |
+| **Focus** | Software architecture, distributed & web systems, polyglot delivery, data & integrations |
 | **Contact** | [radityo.hanif@gmail.com](mailto:radityo.hanif@gmail.com) |
 
 ---
@@ -69,7 +71,7 @@ If you have an idea for **collaboration**, business or non-profit (side projects
 | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | Flask |
 | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | FastAPI |
 
-*Filament* is my go-to **admin/dashboard** layer in the Laravel ecosystem; *Livewire* for reactive UIs without leaving the Laravel stack.
+When I'm on **Laravel**, I often reach for *Filament* for **admin/dashboard** surfaces and *Livewire* for reactive UIs—one path among several I use depending on the problem.
 
 ### Data, cloud & infrastructure
 
@@ -95,24 +97,6 @@ If you have an idea for **collaboration**, business or non-profit (side projects
 |:---:|:---|
 | ![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white) | Google BigQuery |
 
----
-
-## GitHub stats
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=radityohanif&theme=github-dark&hide_border=false)](https://git.io/streak-stats)
-
-[![Hanif's GitHub stats](https://github-readme-stats.vercel.app/api?username=radityohanif&show_icons=true&theme=github_dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radityohanif&layout=compact&theme=github_dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=radityohanif&theme=onedark&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## Connect
 
 | Platform | Link |
@@ -123,8 +107,8 @@ If you have an idea for **collaboration**, business or non-profit (side projects
 
 <div align="center">
 
-*Open to collaboration—email me if you'd like to talk or work together.*
+*Open to collaboration on architecture, products, or ideas—email me anytime.*
 
-**Last edited:** 29 March 2026 · **Hanif Radityo**
+**Last edited:** January 2026 · **Hanif Radityo**
 
 </div>
