@@ -27,11 +27,6 @@ I’m a **software architect** who thrives at the intersection of **clarity, tra
 My approach blends **human judgment with agentic AI** as a partner: I use AI for exploration, repetition, and speed, while I focus on **architecture, design, and real-world constraints**. Whether it’s **distributed systems, APIs, or integrations**, I prioritize **clarity, maintainability, and scalability**.
 
 Beyond coding, I’m passionate about **IT entrepreneurship**—turning ideas into sustainable products and ventures. If you’re interested in **software architecture, distributed systems, or building something new**, let’s connect!
-   | |
- |:---|:---|
- | **Location** | Cibinong, West Java, Indonesia |
- | **Focus** | Software architecture, distributed & web systems, polyglot delivery, data & integrations |
- | **Contact** | [radityo.hanif@gmail.com](mailto:radityo.hanif@gmail.com) |
 
 ---
 
